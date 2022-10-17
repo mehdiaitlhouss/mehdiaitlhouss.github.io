@@ -351,6 +351,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 	font-size: 45px;
 	font-weight: 700;
   text-align: center;
+  padding-bottom: 2rem;
 }
 .project p {
   color: #B8B8B8;
@@ -416,9 +417,9 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 }
 .proj-imgbx {
   position: relative;
-  border-radius: 30px;
+  border-radius: 20px;
   overflow: hidden;
-  margin-bottom: 24px;
+  margin-bottom: 4px;
 }
 .proj-imgbx::before {
   content: "";
@@ -616,4 +617,111 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   color: #B8B8B8;
   letter-spacing: 0.5px;
   margin-top: 20px;
+}
+
+/* experience section */
+
+.experience__container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 2rem;
+}
+
+.experience {
+  padding-bottom: 3rem;
+}
+
+.experience h2 {
+  	font-size: 40px;
+    font-weight: 700;
+    text-align: center;
+    padding-bottom: 2rem;
+}
+
+.experience__container > div {
+  background: #151515;
+  padding: 2.4rem 5rem;
+  border-radius: 2rem;
+  border: 1px solid transparent;
+  transition: all 400ms ease;
+}
+
+.experience__container > div:hover {
+  background: transparent;
+  border-color: var(--color-primary-variant); 
+  cursor: default;
+}
+
+.experience__container > div h3 {
+  text-align: center;
+  margin-bottom: 2rem;
+  color: white;
+}
+
+.experience__content {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  row-gap: 2rem;
+}
+
+.experience__details {
+  display: flex;
+  gap: 1rem
+}
+
+.text-light {
+  color: gray;
+}
+
+.experience__details-icon {
+  margin-top: 6px;
+  color: #8f348d;
+}
+
+/* media tablet */
+
+@media screen and (max-width: 1024px) {
+  .experience__container {
+      grid-template-columns: 1fr;
+  }
+
+  .experience__container > div {
+      width: 80%;
+      padding: 2rem;
+      margin: 0 auto;
+  }
+
+  .experience__content {
+      padding: 1rem;
+  }
+}
+
+/* media phone */
+
+@media screen and (max-width: 600px) {
+  .experience__container {
+      gap: 1rem;
+  }
+
+  .experience__container > div {
+      width: 100%;
+      padding: 2rem 1rem;
+  }
+}
+
+.logo {
+  color: #B8B8B8;
+  font-size: 1.5rem;
+  letter-spacing: 0.8px;
+  line-height: 1.5em;
+  width: 96%;
+}
+
+.logo__footer {
+  color: #B8B8B8;
+  font-size: 2.5rem;
+  letter-spacing: 0.8px;
+  line-height: 1.5em;
+  width: 96%;
+  font-weight: 700;
 }
