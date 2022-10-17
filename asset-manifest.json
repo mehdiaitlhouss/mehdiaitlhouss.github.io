@@ -1,20 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.f85684d5.css",
-    "main.js": "/static/js/main.1ba94e1f.js",
+    "main.css": "/static/css/main.e8973ef3.css",
+    "main.js": "/static/js/main.c9d7dae1.js",
     "static/js/787.316ccb6b.chunk.js": "/static/js/787.316ccb6b.chunk.js",
+    "static/media/livestock-monitoring.png": "/static/media/livestock-monitoring.d390c3d7e9a6a81ddbf0.png",
     "static/media/color-sharp.png": "/static/media/color-sharp.bea361cfef80fefc2d1e.png",
     "static/media/color-sharp2.png": "/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
     "static/media/myPicture.png": "/static/media/myPicture.791bddabb9b102898496.png",
     "static/media/banner-bg.png": "/static/media/banner-bg.cc1273af450504afe755.png",
+    "static/media/seo-formation.png": "/static/media/seo-formation.d369a45d885fc00095d4.png",
+    "static/media/codiw.png": "/static/media/codiw.3a8795045cd48063ec09.png",
     "static/media/header-img.svg": "/static/media/header-img.84bf93eb20488a753440bf83d27db7bb.svg",
+    "static/media/scs.png": "/static/media/scs.6a1236fb38864c17f1d7.png",
     "static/media/CentraNo2-Bold.ttf": "/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
     "static/media/CentraNo2-Medium.ttf": "/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
     "static/media/CentraNo2-Book.ttf": "/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
-    "static/media/project-img1.png": "/static/media/project-img1.d593db3f12901bc685c2.png",
     "static/media/footer-bg.png": "/static/media/footer-bg.7bd67c0f73571d0acc02.png",
-    "static/media/project-img2.png": "/static/media/project-img2.2e52097c417f9f1134b0.png",
-    "static/media/project-img3.png": "/static/media/project-img3.675b30d2f975a1bc1d09.png",
     "static/media/contact-img.svg": "/static/media/contact-img.87eac2b29352fa01abb2f9510ef6ac7e.svg",
     "static/media/revicons.eot": "/static/media/revicons.a77de540a38981833f9e.eot",
     "static/media/revicons.ttf": "/static/media/revicons.57fd05d4ae650374c8de.ttf",
@@ -29,12 +30,12 @@
     "static/media/arrow2.svg": "/static/media/arrow2.3d9522b6fd8f2464b7200ebf2c1bb09a.svg",
     "static/media/arrow1.svg": "/static/media/arrow1.96d04c1593d1b1ed846bae8247d168cb.svg",
     "static/media/nav-icon2.svg": "/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
-    "main.f85684d5.css.map": "/static/css/main.f85684d5.css.map",
-    "main.1ba94e1f.js.map": "/static/js/main.1ba94e1f.js.map",
+    "main.e8973ef3.css.map": "/static/css/main.e8973ef3.css.map",
+    "main.c9d7dae1.js.map": "/static/js/main.c9d7dae1.js.map",
     "787.316ccb6b.chunk.js.map": "/static/js/787.316ccb6b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f85684d5.css",
-    "static/js/main.1ba94e1f.js"
+    "static/css/main.e8973ef3.css",
+    "static/js/main.c9d7dae1.js"
   ]
 }
